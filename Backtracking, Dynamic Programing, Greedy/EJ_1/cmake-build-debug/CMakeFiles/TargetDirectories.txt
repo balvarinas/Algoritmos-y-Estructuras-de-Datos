@@ -1,0 +1,3 @@
+C:/Users/Belu/OneDrive/Documentos/Algo 3 (2C2023)/TP1/Ej 1_max/cmake-build-debug/CMakeFiles/Ej_1_max.dir
+C:/Users/Belu/OneDrive/Documentos/Algo 3 (2C2023)/TP1/Ej 1_max/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Belu/OneDrive/Documentos/Algo 3 (2C2023)/TP1/Ej 1_max/cmake-build-debug/CMakeFiles/rebuild_cache.dir
